@@ -28,7 +28,7 @@ Root project 'gradle-multi-projects-example'
 └── user-defined-lib-folder
 ```
 
-* [1] `[build.gradle](./build.gradle)`
+* [1] [`build.gradle`](./build.gradle)
 
 ```
 ...
@@ -44,7 +44,7 @@ dependencies {
 ...
 ```
 
-* [2] `[prj-b/build.gradle](/prj-b/build.gradle)`
+* [2] [`prj-b/build.gradle`](/prj-b/build.gradle)
 
 ```
 ...
