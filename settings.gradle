@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-multi-projects-example'
+
+include 'prj-a'
+include 'prj-b'

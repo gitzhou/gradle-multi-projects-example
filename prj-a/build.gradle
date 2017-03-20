@@ -1,0 +1,11 @@
+apply plugin: 'eclipse'
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['user-defined-src-folder']
+        }
+    }
+}
+
+buildDir = 'bin'

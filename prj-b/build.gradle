@@ -1,0 +1,15 @@
+apply plugin: 'eclipse'
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+
+buildDir = 'bin'
+
+dependencies {
+    compile project(":prj-a")
+}
